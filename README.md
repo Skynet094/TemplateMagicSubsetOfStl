@@ -1,5 +1,5 @@
 # TemplateMagicSubsetOfStl
-Template Magic: Subset of STL#Clearly, it's a C++ project
+Template Magic: Subset of STL, it's a C++ project
 
 This was my second project.
 
