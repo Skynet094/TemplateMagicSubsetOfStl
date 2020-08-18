@@ -1,14 +1,9 @@
 # TemplateMagicSubsetOfStl
 Template Magic: Subset of STL#Clearly, it's a C++ project
 
-This was my second project but first group project.
+This was my second project.
 
-It contains a bunch of template library files implemented by us, and one tiny graphics application that does sorting using our library.
-
-
+It contains a bunch of template library files implemented from scratch to gain deeper understanding of STL, and one tiny graphics application that does sorting using the library.
 
 
-
-
-
-Author: Md. Salman Estyak and Siamul Karim Khan.
+Author: Md. Salman Estyak 
